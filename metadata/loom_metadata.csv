@@ -1,0 +1,5 @@
+sample_id,loom_file,seurat_suffix
+J23120852_hap1,data/velocyto/J23120852_hap1.loom,0
+J23120853_hap1,data/velocyto/J23120853_hap1.loom,1
+J23120854_hap1,data/velocyto/J23120854_hap1.loom,2
+J23120855_hap1,data/velocyto/J23120855_hap1.loom,3

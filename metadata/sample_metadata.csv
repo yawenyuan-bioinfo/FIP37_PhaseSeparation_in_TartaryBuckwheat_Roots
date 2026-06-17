@@ -1,0 +1,5 @@
+sample_id,condition,replicate,cellranger_path
+J23120854_hap1,CK,1,data/cellranger/J23120854_hap1
+J23120855_hap1,CK,2,data/cellranger/J23120855_hap1
+J23120852_hap1,NP,1,data/cellranger/J23120852_hap1
+J23120853_hap1,NP,2,data/cellranger/J23120853_hap1

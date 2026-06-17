@@ -1,0 +1,6 @@
+sample_id,time,condition,replicate
+A0_rep1,0,CK,1
+A2_rep1,2,NP,1
+A4_rep1,4,NP,1
+A6_rep1,6,NP,1
+A8_rep1,8,NP,1

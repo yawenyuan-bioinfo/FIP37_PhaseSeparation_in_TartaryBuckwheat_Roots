@@ -1,0 +1,14 @@
+Seurat
+DoubletFinder
+dplyr
+ggplot2
+patchwork
+pheatmap
+WGCNA
+monocle
+hdWGCNA
+cowplot
+tidyr
+ggrepel
+RColorBrewer
+ggsci
